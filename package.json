@@ -1,0 +1,14 @@
+{
+  "name": "buffeed-spa",
+  "version": "0.0.1",
+  "description": "an SPA works with buffeed",
+  "main": "index.js",
+  "repository": "https://github.com/tannineo/buffeed-spa.git",
+  "author": "tan90 <tan90indream@163.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "standard": "^10.0.3",
+    "webpack": "^3.9.1"
+  }
+}

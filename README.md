@@ -1,2 +1,3 @@
 # buffeed-spa
-an SPA works with  buffeed
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+an SPA works with buffeed
